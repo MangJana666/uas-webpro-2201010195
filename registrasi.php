@@ -41,7 +41,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-6 col-lg-4">
 					<div class="login-wrap p-0">
-		      	<h3 class="mb-4 text-center">Have an account?</h3>
+		      	<h3 class="mb-4 text-center">Dont Have an account?</h3>
 		      	<form action="registrasi.php" method="POST" class="signin-form">
 		      		<div class="form-group">
 		      			<input type="text" name="txNAMA" class="form-control" placeholder="Nama Lengkap" required>
