@@ -166,7 +166,7 @@
         <div class="card" style="width: 18rem;">
             <img src="img/pexels-rasik-1416900.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Paket Perjalanan Elite Global</h5>
+              <h5 class="card-title">Paket Perjalanan Elite</h5>
               <p class="card-text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec urna vitae lectus tincidunt vulputate. Sed nec eleifend dolor. Pellentesque eget ligula ac neque sollicitudin volutpat. </p>
               <a href="#" class="btn btn-warning" style="border-radius: 18px;width:110px;transition:0.4s;" onclick="booking('Elite Global','12.000.000')">Booking</a>
