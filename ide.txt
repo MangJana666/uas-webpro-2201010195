@@ -1,1 +1,1 @@
-Ide Project : Project website tentang wisata, budaya bali, pada saat perhitungan harga booking tiket menggunakan fw js (jquery),  dan ditampilkan pada modal. Sebelum memasuki web user harus melakukan sign up, kemudia login untuk mengakses website
+Ide Project : Project website tentang wisata, budaya bali, pada saat perhitungan harga booking tiket menggunakan fw js (jquery),  dan ditampilkan pada modal. Sebelum memasuki web user harus melakukan sign up, kemudia login untuk mengakses website. Pada db user hanya berisi table user saja, dalam table user terdapat kolom id, nama, 
